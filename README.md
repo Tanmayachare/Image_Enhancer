@@ -13,7 +13,7 @@ Smooth Animations: Elegant scrolling and UI animations implemented with Framer M
 Responsive Design: Works flawlessly on desktop, tablet, and mobile devices.
 
 🚀 Live Demo
-Check out the live application: [Your Live Demo Link Here]
+Check out the live application: image-enhancer-self.vercel.app
 
 🛠️ Tech Stack
 Frontend Framework: React
