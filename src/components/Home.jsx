@@ -26,13 +26,11 @@ const Home = () => {
       setuploadImage(false);
       setloading(false);
     }
-    
   };
   return (
     <>
-      <ImageUpload UploadImageHandler={UploadImageHandler}/>
-      {loading?
-      <ImagePreview loading={loading} uploaded={uploadImage} enhanced={enhancedImage}/>:null}
+      {!loading?<ImageUpload UploadImageHandler={UploadImageHandler}/>:null}
+      <ImagePreview loading={loading} uploaded={uploadImage} enhanced={enhancedImage}/>
       <Download loading={loading} enhanced={enhancedImage} tag={buttontext} uploaded={uploadImage}/>
     </>
   )

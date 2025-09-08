@@ -1,12 +1,6 @@
 🖼️ AI Image Enhancer
 A modern, responsive React web application that uses a powerful AI API to enhance, upscale, and improve the quality of your images instantly. Features a sleek interface with smooth animations powered by Framer Motion.
 
-https://img.shields.io/badge/React-18.2.0-%252361DAFB?logo=react
-https://img.shields.io/badge/Tailwind_CSS-3.3.0-%252338B2AC?logo=tailwind-css
-https://img.shields.io/badge/Framer_Motion-Latest-%252305F?logo=framer
-https://img.shields.io/badge/Axios-Latest-%25235A29E4?logo=axios
-
-
 ✨ Features
 AI-Powered Enhancement: Leverages the AOS API for superior image upscaling and quality improvement.
 
@@ -60,7 +54,6 @@ Add your AOS API key:
 text
 REACT_APP_API_KEY=your_api_key_here
 REACT_APP_BASE_URL=https://techhk.aoscdn.com
-> Note: You must obtain your own API key from AOS Technologies.
 
 Start the development server
 
