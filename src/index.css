@@ -1,0 +1,9 @@
+@import "tailwindcss";
+.bg1{
+    background: #000000;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 1) 33%, rgba(243, 244, 246, 1) 100%);
+}
+.bg2{
+    background: #2F2F2F;
+    background: linear-gradient(180deg, rgb(3, 3, 3) 0%, rgb(3, 3, 3) 50%, rgb(94, 94, 94) 100%);
+}
